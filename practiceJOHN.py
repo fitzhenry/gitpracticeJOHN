@@ -1,7 +1,7 @@
 # Partner 1: John Robert Fitzlovely
 # partner 2: Ethan Bankowski
 ######################
-# Assignment Name: GitHub practice - 20 points
+# Assignment Name: GitHub practice - 2/26/20 - 10 points
 
 def getNRandom(n):
 	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
