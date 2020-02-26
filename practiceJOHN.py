@@ -1,5 +1,5 @@
-# Partner 1: John
-# partner 2: Ethan
+# Partner 1: John Robert Fitzlovely
+# partner 2: Ethan Bankowski
 
 def getNRandom(n):
 	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
